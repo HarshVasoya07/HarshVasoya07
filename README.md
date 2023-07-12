@@ -1,5 +1,5 @@
 <h1>👋Hi, I'm Harsh Vasoya! <br/><a  <a href=""></h1>
-  👨‍💻 Passionate Data Analyst | Python Enthusiast | 📊 Data Analytics Professional
+  👨‍💻 Passionate Data Analyst | 🐍 Python Enthusiast | 📊 Data Analytics Professional
 
   <a href="https://www.linkedin.com/in/harsh-vasoya2002/"> 📢💻🔵 LinkedIn Profile </h1>
 
@@ -13,9 +13,7 @@
 
 📈 In the realm of machine learning, I have created predictive models and performed data analysis using Python. Projects like NYC Taxi Data Analysis and Malaria Detection have allowed me to leverage machine learning techniques to gain valuable insights.
 
-💼 Connect with me on LinkedIn to explore more about my data analytics journey and see my complete project portfolio. Let's connect and collaborate on exciting data-driven projects! 🌐
-
-🤳 Reach out to me through LinkedIn or other social media platforms mentioned above. I look forward to connecting with fellow data enthusiasts and professionals!</b>
+💼  Let's connect and collaborate on exciting data-driven projects! 🌐 🤳 Reach out to me through LinkedIn or other social media platforms mentioned below. I look forward to connecting with fellow data enthusiasts and professionals!</b>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Google Data Analytics Certification Capestone Case Studies(SQL, Spreadsheets, R, Visualization ) </b>
