@@ -17,8 +17,8 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Google Data Analytics Certification Capestone Case Studies(SQL, Spreadsheets, R, Visualization ) </b>
-  - [Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Case Study: How Can a Wellness Technology Company Play It Smart?](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Case Study: How Does a Bike-Share Navigate Speedy Success?]()
+  - [Case Study: How Can a Wellness Technology Company Play It Smart?]()
 - <b>SQL Projects(SQL) </b>
   - [Project: When Was the Golden Age of Video Games?](https://github.com/HarshVasoya07/Golden-Age-of-Video-Game)
   - [Project: Chinook Digital Music Store](https://github.com/HarshVasoya07/ChinookDigitalMusicStore)
