@@ -21,7 +21,7 @@
   - [Case Study: How Can a Wellness Technology Company Play It Smart?](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>SQL Projects(SQL) </b>
   - [Project: When Was the Golden Age of Video Games?](https://github.com/HarshVasoya07/Golden-Age-of-Video-Game)
-  - [Project: Chinook Digital Music Store](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Project: Chinook Digital Music Store](https://github.com/HarshVasoya07/ChinookDigitalMusicStore)
 - <b>Python Project</b>
   - [Online ShoppingCart Tracker](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Online Banking/ATM Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
