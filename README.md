@@ -1,5 +1,21 @@
-<h1>Hi, I'm Harsh Vasoya! <br/><a  <a href=""></h1>
-  <a <a href="https://www.linkedin.com/in/harsh-vasoya2002/"> 📢💻🔵 LinkedIn Profile </h1>
+<h1>👋Hi, I'm Harsh Vasoya! <br/><a  <a href=""></h1>
+  👨‍💻 Passionate Data Analyst | Python Enthusiast | 📊 Data Analytics Professional
+
+  <a href="https://www.linkedin.com/in/harsh-vasoya2002/"> 📢💻🔵 LinkedIn Profile </h1>
+
+<b>👋 Hello, I'm Harsh Vasoya, a passionate data analyst and Python enthusiast! 💻📊
+
+🎓 I hold multiple data analytics certifications, including the Google Data Analytics Professional Certificate, Data Analyst in SQL, Data Analysis with R Programming, Process Data from Dirty to Clean, Applied Machine Learning - Beginner to Professional, and Structured Thinking and Communication for Data Science Professionals.
+
+📊 My expertise lies in data analytics, and I have completed various projects showcasing my skills. From analyzing bike-sharing success to exploring the golden age of video games and working with the Chinook Digital Music Store, I have tackled diverse case studies using SQL, spreadsheets, R, and visualization tools.
+
+🐍 Additionally, I have developed a Python project for an Online ShoppingCart Tracker and worked on projects related to online banking/ATM systems and updating written sentences. I am well-versed in Python libraries such as Pandas, NumPy, Seaborn, and Matplotlib, which I utilize for exploratory data analysis (EDA).
+
+📈 In the realm of machine learning, I have created predictive models and performed data analysis using Python. Projects like NYC Taxi Data Analysis and Malaria Detection have allowed me to leverage machine learning techniques to gain valuable insights.
+
+💼 Connect with me on LinkedIn to explore more about my data analytics journey and see my complete project portfolio. Let's connect and collaborate on exciting data-driven projects! 🌐
+
+🤳 Reach out to me through LinkedIn or other social media platforms mentioned above. I look forward to connecting with fellow data enthusiasts and professionals!</b>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Google Data Analytics Certification Capestone Case Studies(SQL, Spreadsheets, R, Visualization ) </b>
