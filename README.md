@@ -25,11 +25,12 @@
 - <b>Python Project</b>
   - [Online ShoppingCart Tracker](https://github.com/HarshVasoya07/OnlineShoppingCart_Tracker)
   - [Online Banking/ATM Project](https://github.com/HarshVasoya07/OnlineBanking-ATM_Project)
-  - [Updating Written Sentences](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Updating Written Sentences](https://github.com/HarshVasoya07/UpdatingTheWrittenSentences)
 - <b>Python and its Libraries(Pandas, Numpy, Seaborn, Matplotlib) </b>
   - [Exploratory Data Analysis (EDA)](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Project: World Happiness Report](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [EDA Analysis: QandA](https://github.com/joshmadakor1/AD_PS)
+  - [Data Visualization](https://github.com/HarshVasoya07/DataVisualization)
 - <b>Python using Machine Learning(Predictive Model and Data Analysis )</b>
   - [Project: NYC Taxi Data Analysis](https://github.com/joshmadakor1/EncrypterPOC)
   - [Project: Malaria Detection](https://github.com/joshmadakor1/DecrypterPOC)
