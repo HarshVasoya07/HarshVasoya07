@@ -24,7 +24,7 @@
   - [Project: Chinook Digital Music Store](https://github.com/HarshVasoya07/ChinookDigitalMusicStore)
 - <b>Python Project</b>
   - [Online ShoppingCart Tracker](https://github.com/HarshVasoya07/OnlineShoppingCart_Tracker)
-  - [Online Banking/ATM Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Online Banking/ATM Project](https://github.com/HarshVasoya07/OnlineBanking-ATM_Project)
   - [Updating Written Sentences](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Python and its Libraries(Pandas, Numpy, Seaborn, Matplotlib) </b>
   - [Exploratory Data Analysis (EDA)](https://github.com/joshmadakor1/Sentinel-Lab)
