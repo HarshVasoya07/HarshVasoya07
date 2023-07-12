@@ -23,7 +23,7 @@
   - [Project: When Was the Golden Age of Video Games?](https://github.com/HarshVasoya07/Golden-Age-of-Video-Game)
   - [Project: Chinook Digital Music Store](https://github.com/HarshVasoya07/ChinookDigitalMusicStore)
 - <b>Python Project</b>
-  - [Online ShoppingCart Tracker](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Online ShoppingCart Tracker](https://github.com/HarshVasoya07/OnlineShoppingCart_Tracker)
   - [Online Banking/ATM Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Updating Written Sentences](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Python and its Libraries(Pandas, Numpy, Seaborn, Matplotlib) </b>
