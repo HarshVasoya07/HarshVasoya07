@@ -27,13 +27,13 @@
   - [Online Banking/ATM Project](https://github.com/HarshVasoya07/OnlineBanking-ATM_Project)
   - [Updating Written Sentences](https://github.com/HarshVasoya07/UpdatingTheWrittenSentences)
 - <b>Python and its Libraries(Pandas, Numpy, Seaborn, Matplotlib) </b>
-  - [Exploratory Data Analysis (EDA)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Project: World Happiness Report](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [EDA Analysis: QandA](https://github.com/joshmadakor1/AD_PS)
+  - [Exploratory Data Analysis (EDA)](https://github.com/HarshVasoya07/NYC-Taxi_EDA-Analysis)
+  - [Project: World Happiness Report](https://github.com/HarshVasoya07/Project-WorldHappinessReport)
+  - [EDA Analysis: QandA](https://github.com/HarshVasoya07/EDA-Analysis)
   - [Data Visualization](https://github.com/HarshVasoya07/DataVisualization)
 - <b>Python using Machine Learning(Predictive Model and Data Analysis )</b>
-  - [Project: NYC Taxi Data Analysis](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Project: Malaria Detection](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/HarshVasoya07/NYC_Taxi-Project)
+  - [Project: Malaria Detection](https://github.com/HarshVasoya07/MalariaDetectionProject)
 
 <h2>🏅🎓 Data Analytics Certifications</h2>
 
@@ -46,9 +46,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HarshVasoya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="HarshVasoya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarshVasoya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/HVasoya07
 [instagram]: https://www.instagram.com/harshvasoya07/
