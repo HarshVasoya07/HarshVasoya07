@@ -2,6 +2,8 @@
   👨‍💻 Passionate Data Analyst | 🐍 Python Enthusiast | 📊 Data Analytics Professional
 
   <a href="https://www.linkedin.com/in/harsh-vasoya2002/"> 📢💻🔵 LinkedIn Profile </h1>
+  
+  <h2> 📝 Introduction</h2>
 
 <b>👋 Hello, I'm Harsh Vasoya, a passionate data analyst and Python enthusiast! 💻📊
 
