@@ -1,11 +1,11 @@
 <h1>👋Hi, I'm Harsh Vasoya! <br/><a  <a href=""></h1>
-  👨‍💻 Passionate Data Analyst | 🐍 Python Enthusiast | 📊 Data Analytics Professional
+  👨‍💻 Passionate Data Analyst | 📊 Data Analytics Professional | Data Science and AI/ML Enthusiast
 
   <a href="https://www.linkedin.com/in/harsh-vasoya2002/"> 📢💻🔵 LinkedIn Profile </h1>
   
   <h2> 📝 Introduction</h2>
 
-<b>👋 Hello, I'm Harsh Vasoya, a passionate data analyst and Python enthusiast! 💻📊
+<b>👋 Hello, I'm Harsh Vasoya, a passionate data analyst, Data Science, and AI/ML Enthusiast! 💻📊
 
 🎓 I hold multiple data analytics certifications, including the Google Data Analytics Professional Certificate, Data Analyst in SQL, Data Analysis with R Programming, Process Data from Dirty to Clean, Applied Machine Learning - Beginner to Professional, and Structured Thinking and Communication for Data Science Professionals.
 
