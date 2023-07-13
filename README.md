@@ -33,7 +33,7 @@
   - [Project: World Happiness Report](https://github.com/HarshVasoya07/Project-WorldHappinessReport)
   - [EDA Analysis: QandA](https://github.com/HarshVasoya07/EDA-Analysis)
   - [Data Visualization](https://github.com/HarshVasoya07/DataVisualization)
-- <b>Python using Machine Learning(Predictive Model and Data Analysis )</b>
+- <b>Python & Machine Learning(Predictive Model and Data Analysis )</b>
   - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/HarshVasoya07/NYC_Taxi-Project)
   - [Project: Malaria Detection](https://github.com/HarshVasoya07/MalariaDetectionProject)
 
